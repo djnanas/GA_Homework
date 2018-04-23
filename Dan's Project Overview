@@ -1,0 +1,7 @@
+I'm working with a dataset that contains all of the International Football matches that have taken place since the 19th century. 
+I'd like to use them to make some predictions about the 2018 World Cup, including each team's finish (based solely on historical data).
+It contains way more data than I probably need (~40k rows, 8 columns), but doesn't include everything I need (notably World Cup finishes by year).
+I'll likely have to join another dataset on it with some other info.
+I've begun compiling team finishes by year, because I couldn't find a dataset that contains this information in a clear way.
+I've begun engineering some of the features I'll need in Pandas, and thinking about how I'll score/operationalize different things.
+I don't know enough to say what model I'll use for this, but looking forward to figuring it out in the next several classes!
